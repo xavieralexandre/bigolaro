@@ -3,7 +3,7 @@ layout: post
 title: Souper d'inauguration
 ---
 
-#Diner d'inauguration
+#Souper d'inauguration
 
 
 ###Batch 1 (par personne)
