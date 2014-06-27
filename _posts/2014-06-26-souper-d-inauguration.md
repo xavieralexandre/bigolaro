@@ -5,15 +5,21 @@ title: Souper d'inauguration
 
 #Souper d'inauguration
 
+###Sauce à la saucisse (Pour 8 personnes)
+* 800g de saucisse
+* Oignons, échalotte
+* 1 branche de céleri
+* 2dL de vin sec (Blanc ou rouge)
+* 1 grosse boite de pelati
 
-###Batch 1 (par personne)
+###Pâte 1 (quantité corrigées par personne pour un repas)
 * 30g de Farine de blé tendre
 * 30g de farine de blé dur
 * 30g de farine de sarrasin
 * 1cs d'huile
 * 1 pincée de sel
 
-###Batch 2 (par personne)
+###Pâte 2
 * 50g de Farine de blé tendre
 * 50g de farine de blé dur
 * 1cs d'huile
