@@ -1,0 +1,10 @@
+# Site settings
+title: Bigolaro
+email: bigolaro@xavieralexandre.io
+description: "Nouvelles et ressources du projet Bigolaro."
+baseurl: ""
+url: "http://www.bigolaro.ch"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
