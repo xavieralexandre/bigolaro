@@ -2,7 +2,7 @@
 title: Bigolaro
 email: bigolaro@xavieralexandre.io
 description: "Nouvelles et ressources du projet Bigolaro."
-baseurl: ""
+baseurl: "/bigolaro"
 url: "http://www.bigolaro.ch"
 
 # Build settings
