@@ -12,7 +12,7 @@ title: Souper d'inauguration
 * 2dL de vin sec (Blanc ou rouge)
 * 1 grosse boite de pelati
 
-###Pâte 1 (quantité corrigées par personne pour un repas)
+###Pâte 1 (quantités corrigées par personne pour un repas)
 * 30g de Farine de blé tendre
 * 30g de farine de blé dur
 * 30g de farine de sarrasin
