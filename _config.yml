@@ -1,6 +1,6 @@
 # Site settings
 title: Bigolaro
-email: bigolaro@xavieralexandre.io
+email: cuocoli@gmail.com
 description: "Nouvelles et ressources du projet Bigolaro."
 baseurl: "/bigolaro"
 url: "http://www.bigolaro.ch"
@@ -8,3 +8,8 @@ url: "http://www.bigolaro.ch"
 # Build settings
 markdown: kramdown
 permalink: pretty
+  
+collections:
+ recettes:
+  output: true
+  permalink: /recettes/

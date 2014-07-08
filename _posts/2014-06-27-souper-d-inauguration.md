@@ -3,6 +3,8 @@ layout: post
 title: Souper d'inauguration
 ---
 
+Les recettes de la soirée d'inauguration
+
 #Souper d'inauguration
 
 ###Sauce à la saucisse (Pour 8 personnes)

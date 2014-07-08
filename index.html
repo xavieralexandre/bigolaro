@@ -3,19 +3,28 @@ layout: default
 ---
 
 <div class="home">
-  <h1><a href="http://www.bigolaro.ch/">Bigostarto</a></h1>
+	
+	<ul class="posts">
+		{% for post in site.posts %}
+		<li>
+			<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+			<a class="excerpt-link"  href="{{ post.url | prepend: site.baseurl }}">{{ post.excerpt }}</a>
+		</li>
+		{% endfor %}
+	</ul>
 
-  <h1>Posts</h1>
-
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
+	<h2>Recettes</h2>
+	<ul class="recettes">
+		{% for page in site.recettes %}
+		<li>
+			<a class="recette-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+		</li>
+		{% endfor %}
+	</ul>
+  
+  	<h2>Campagne</h2>
+  	<ul class="posts">
+  	<a class="post-link" href="http://www.bigolaro.ch/">Bigostarto</a>
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
