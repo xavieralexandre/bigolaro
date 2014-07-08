@@ -3,7 +3,7 @@ title: Bigolaro
 email: cuocoli@gmail.com
 description: "Nouvelles et ressources du projet Bigolaro."
 baseurl: "/bigolaro"
-url: "http://www.bigolaro.ch"
+url: "http://xavieralexandre.org/bigolaro"
 
 # Build settings
 markdown: kramdown
